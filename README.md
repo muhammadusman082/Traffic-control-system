@@ -2,8 +2,7 @@
 
 A Python simulation of a smart, multi-lane traffic intersection that dynamically computes green-light durations using **Fuzzy Logic**, routes emergency vehicles through a road network using **informed search**, and detects/predicts congestion using **Machine Learning** — combined in a single object-oriented framework.
 
-> **Course:** Artificial Intelligence Lab — Final Project, Iqra University
-> **Author:** M Usman (Reg. No. 66985)
+
 
 ---
 
